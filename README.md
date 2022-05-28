@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  Senior Smart Contract Developer
+  Senior Smart Contract & P2E Game Developer
 </h1>
 
 <p>
@@ -21,7 +21,7 @@ Highly professional blockchain developer with comprehensive accomplishments appl
 
 
 #### Skills/Experience
-- Blockchain Technology, Smart Contract
+- Blockchain Technology, Smart Contract, Unity
 - dApp, DeFi, NFT
 - Solidity, Rust, Golang, C++, Python
 - Ethereum, Bitcoin, Solana, Cardano, Polkadot, Polygon, Binance Smart Chain, Chainlink
@@ -31,7 +31,7 @@ Highly professional blockchain developer with comprehensive accomplishments appl
 As a senior blockchain developer with 4+ years of experience in Solidity & 2+ years of experience in Rust,  I used to work on several DeFi and NFT projects.
 
 - What blockchain networks I’ve worked with?   : Ethereum,  Solana,  Polygon,  BSC (Binance Smart Chain),  Cardano,  Polkadot
-- What languages/frameworks/libraries I’m experienced with?  :  Solidity, Rust,  Golang, C++,     Node.js, Python, Ruby, C#,   Web3.js, Ethers.js,  Typescript/JavaScript, Vue.js, React.js, Angular.js, GraphQL,  …   
+- What languages/frameworks/libraries I’m experienced with?  :  Solidity, Rust,  Golang, C++,     Node.js, Python, Ruby, C#,   Web3.js, Ethers.js,     Typescript/JavaScript, Vue.js, React.js, Angular.js, GraphQL,  …   
 - What database am I familiar with?   :   MySQL, PostgreSQL, MSSQL, InfluxDB,     MongoDB, DynamoDB,  …
 - What tools do I use for solidity smart contract development?  :   Hardhat (strong), Truffle,  Remix
 
