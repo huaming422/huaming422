@@ -1,5 +1,17 @@
+<h1 align="center" dir="auto">👋 Hi, I’m @Rob Park</h1>
 
-<h1 align="center" dir="auto">👋 Hi, I’m Senior Smart Contract & P2E Game Developer</h1>
+<p align="center">
+<!--   <a href="mailto:live:.cid.bd5df81ce709e38c">
+    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+  </a>&nbsp;&nbsp; -->
+<!--   <a href="https://discord.gg/uBApurqJ">
+    <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>&nbsp;&nbsp; -->
+<!--   <a href="mailto:oleksandrkunchenkodev@gmail.com">
+    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp; -->
+</p>
+
 <p align="center">
   <h3 align="center">A Principal Blockchain Engineer</h3>
 
@@ -13,27 +25,7 @@
 
 - ⚡ Quotes: *What you do today can improve all of your tomorrows.*
 </p>
-## About Me
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Full-Stack Blockchain developer specialized in DeFi and Solidity <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></p>
-<p dir="auto">Being a full-stack blockchain developer, I have 4 years of experience in this field.
-I have decent expertise in Blockchain development and custom smart contract application development technologies.
-I am responsible for designing and implementing new innovative features and functionalities, establishing the blockchain, cryptocurrency, ICO, smart contracts application architecture, ensuring high-performance and availability, and managing all blockchain development &amp; technical aspects.
-I work closely with project stack holders and end customers to provide an effective, visually appealing, and intuitive implementation.
-Are you looking full time &amp; dedicated blockchain developer to develop a user-friendly high-end functionality based ICO, cryptocurrency or smart contracts web application?
-I will love to engage myself as a full-stack blockchain developer and assist you with innovative and creative strategies.</p>
-<p dir="auto"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Build DeFi Dapp by forking Pancakeswap or Pantherswap on Binance Smart Chain
-<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Build DeFi Dapp by forking Uninswap or Sushiswap on Ethereum
-<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Strong knowledge of Solidity or Rust language
-<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Solana Blockchain
-<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Create rebase token similar to SafeMoon
-<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> ERC20/721, BEP20, TRC10/20 protocols
-<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> UniSwap &amp; PancakeSwap Bot(frontrunning, sniping)
-<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Cryptocurrency Wallet and Exchange Applications
-<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Blockchain Consulting
-<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Ongoing Blockchain Development Support and Maintenance</p>
-</article>
-
-
+  
 ### DeFi Experiences
 - NFT Mint Dapps
 <table>
@@ -186,5 +178,3 @@ I will love to engage myself as a full-stack blockchain developer and assist you
   <br />
 
 </div>
-
-
