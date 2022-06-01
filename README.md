@@ -12,7 +12,8 @@
 
 - ⚡ Quotes: *What you do today can improve all of your tomorrows.*
 </p>
-## About Me
+
+### About Me
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Full-Stack Blockchain developer specialized in DeFi and Solidity <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></p>
 <p dir="auto">Being a full-stack blockchain developer, I have 4 years of experience in this field.
 I have decent expertise in Blockchain development and custom smart contract application development technologies.
