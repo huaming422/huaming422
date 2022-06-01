@@ -1,7 +1,6 @@
 
-<h1 align="center" dir="auto">👋 Hi, I’m Senior Smart Contract & P2E Game Developer</h1>
+<h1 align="center" dir="auto">👋 Senior Smart Contract & P2E Game Developer</h1>
 <p align="center">
-  <h3 align="center">A Principal Blockchain Engineer</h3>
 
 - 😎 Interested in contributing expertise in web and blockchain development
 
