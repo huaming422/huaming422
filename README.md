@@ -160,10 +160,10 @@ I will love to engage myself as a full-stack blockchain developer and assist you
     </tr>
 </table>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=robpark04.robpark04" />
+<!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=robpark04.robpark04" />
 <img align="right" src="https://img.shields.io/github/followers/robpark04?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=robpark04&theme=github&count_private=true" />
+<img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=robpark04&theme=github&count_private=true" /> -->
 
 
 
