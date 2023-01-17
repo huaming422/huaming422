@@ -1,5 +1,5 @@
 
-<h1 align="center" dir="auto">👋 Senior Smart Contract & P2E Game Developer</h1>
+<h1 align="center" dir="auto">👋 Senior Mobile and Blockchain Developer</h1>
 <p align="center">
 
 - 😎 Interested in contributing expertise in web and blockchain development
