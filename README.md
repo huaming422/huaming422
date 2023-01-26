@@ -1,8 +1,8 @@
 
-<h1 align="center" dir="auto">👋 Senior Mobile and Blockchain Developer</h1>
+<h1 align="center" dir="auto">👋 FullStack Mobile and Blockchain Developer</h1>
 <p align="center">
 
-- 😎 Interested in contributing expertise in web and blockchain development
+- 😎 Interested in contributing expertise in web, mobile and blockchain development
 
 - 👯 Looking to collaborate on **Innovative Projects**
 
