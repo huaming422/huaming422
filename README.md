@@ -1,5 +1,5 @@
 
-<h1 align="center" dir="auto">👋 FullStack Mobile and Blockchain Developer</h1>
+<h1 align="center" dir="auto">👋 FullStack Web, Mobile and Blockchain Developer</h1>
 <p align="center">
 
 - 😎 Interested in contributing expertise in web, mobile and blockchain development
@@ -14,7 +14,7 @@
 </p>
 
 ### About Me
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Full-Stack Mobile and Blockchain developer specialized in React, Ionic, Solidity <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></p>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Full-Stack Web, Mobile and Blockchain developer specialized in React, Angular, React Native, Ionic, Solidity <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></p>
 <p dir="auto">I’m a passionate Front-end and full stack developer with 7 years of experience in the software industry. An accomplished individual with strong background in React, Angular, Symfony, Node.js, Ionic, React Native, Unity. Have a good understanding of programming, can come up with plenty of innovative ideas and has excellent communication skills. I have professional experience in building architectures for backend projects and designing top-level database system backend APIs. What I guarantee - Idiomatic code with high readability - Advanced English communication skills and prompt response to messages - Pay attention to the details of fair time tracking. - High availability and stability. I prefer challenging and non-standard work using state-of-the-art technology. I am a quick learner and also a very honest and trustworthy person.</p>
 <p dir="auto"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Build DeFi Dapp by forking Pancakeswap or Pantherswap on Binance Smart Chain
 <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Build DeFi Dapp by forking Uninswap or Sushiswap on Ethereum
