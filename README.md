@@ -16,8 +16,8 @@
 ### About Me
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Full-Stack Web, Mobile and Blockchain developer specialized in React, Angular, React Native, Ionic, Solidity <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></p>
 <p dir="auto">Experienced Full Stack developer with a strong background in designing
-and implementing end-to-end web applications. Skilled in developing responsive and user-friendly interfaces, optimizing
-application performance, and integrating APIs. With 5+ years of experience, I have successfully delivered projects across
+and implementing end-to-end web applications.<br /> Skilled in developing responsive and user-friendly interfaces, optimizing
+application performance, and integrating APIs.<br /> With 5+ years of experience, I have successfully delivered projects across
 various industries, collaborating with cross-functional teams to meet client
 requirements and deliver exceptional results.<br />
 I have a proven track record of building scalable and robust applications, ensuring high code quality and adherence to best practices.<br />
