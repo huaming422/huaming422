@@ -19,14 +19,14 @@
 and implementing end-to-end web applications. Skilled in developing responsive and user-friendly interfaces, optimizing
 application performance, and integrating APIs. With 5+ years of experience, I have successfully delivered projects across
 various industries, collaborating with cross-functional teams to meet client
-requirements and deliver exceptional results.
-I have a proven track record of building scalable and robust applications, ensuring high code quality and adherence to best practices.
-I am highly skilled in problem-solving and have a strong attention to detail, allowing me to identify and resolve complex technical issues efficiently.
+requirements and deliver exceptional results.<br />
+I have a proven track record of building scalable and robust applications, ensuring high code quality and adherence to best practices.<br />
+I am highly skilled in problem-solving and have a strong attention to detail, allowing me to identify and resolve complex technical issues efficiently.<br />
 I am constantly staying updated with the latest industry trends and
 technologies, continuously enhancing my skill set to deliver cutting-edge
-solutions.
+solutions.<br />
 I thrive in fast-paced environments and excel at managing multiple
-projects simultaneously while meeting tight deadlines. I am a proactive
+projects simultaneously while meeting tight deadlines.<br /> I am a proactive
 communicator and a team player, fostering positive collaborations and
 driving successful project outcomes.</p>
 
