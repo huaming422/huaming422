@@ -1,5 +1,5 @@
 
-<h1 align="center" dir="auto">👋 FullStack Web, Mobile Developer</h1>
+<h1 align="center" dir="auto">👋 FullStack Web, Mobile & Blockchain Developer</h1>
 <p align="center">
 
 - 😎 Interested in contributing expertise in web, mobile and blockchain development
